@@ -72,9 +72,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Remote_sensing-OCR&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=SAFE-AI-FALL-DETECTION-SYSTEM&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Automation-using-Esp32&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Remote_sensing-OCR&theme=tokyonight"/>
 
 </div>
 
@@ -82,7 +82,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=parking-slot-tracking&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Mahivarunchalla86&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=ESP32-Blynk-Automation&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=web-scraping-project&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=mahivarun-portfolio&theme=tokyonight"/>
 
 </div>
 ---
