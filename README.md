@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahivarunchalla86&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mahivarunchalla86&theme=radical&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -71,29 +71,41 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=SAFE-AI-FALL-DETECTION-SYSTEM&theme=tokyonight"/>
+<a href="https://github.com/Mahivarunchalla86/SAFE-AI-FALL-DETECTION-SYSTEM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=SAFE-AI-FALL-DETECTION-SYSTEM&theme=radical&cache_seconds=1800"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Remote_sensing-OCR&theme=tokyonight"/>
+<a href="https://github.com/Mahivarunchalla86/Remote_sensing-OCR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Remote_sensing-OCR&theme=radical&cache_seconds=1800"/>
+</a>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=parking-slot-tracking&theme=tokyonight"/>
+<a href="https://github.com/Mahivarunchalla86/parking-slot-tracking">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=parking-slot-tracking&theme=radical&cache_seconds=1800"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=ESP32-Blynk-Automation&theme=tokyonight"/>
+<a href="https://github.com/Mahivarunchalla86/ESP32-Blynk-Automation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=ESP32-Blynk-Automation&theme=radical&cache_seconds=1800"/>
+</a>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=web-scraping-project&theme=tokyonight"/>
+<a href="https://github.com/Mahivarunchalla86/web-scraping-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=web-scraping-project&theme=radical&cache_seconds=1800"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=mahivarun-portfolio&theme=tokyonight"/>
+<a href="https://github.com/Mahivarunchalla86/mahivarun-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=mahivarun-portfolio&theme=radical&cache_seconds=1800"/>
+</a>
 
-</div>
+</p>
 
 ---
 
