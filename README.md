@@ -1,12 +1,11 @@
 <div align="center">
-
-<img src="YOUR_BANNER_LINK" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mahivarunchalla86/Mahivarunchalla86/main/banner.png" width="100%"/>
 
 # 👋 Hi, I'm CHALLA MAHIVARUN REDDY
 
 ![](https://komarev.com/ghpvc/?username=Mahivarunchalla86&color=blueviolet)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;AI+Developer;ESP32+%7C+Arduino+%7C+Python;SAFE+AI+Fall+Detection+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;AI+Developer;ESP32+%7C+Arduino+%7C+Python;SAFE+AI+Fall+Detection+Developer;Computer+Vision+%7C+AI+Researcher;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -14,15 +13,17 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Graduate in Electronics & Communication Engineering
+🎓 **B.Tech Graduate in Electronics & Communication Engineering**  
 
-🔭 Building AI + Embedded intelligent systems
+🔭 Building **AI + Embedded intelligent systems**  
 
-🤖 Developed SAFE AI Fall Detection System
+🤖 Developed **SAFE AI Fall Detection System**  
 
-🧠 Working on Brain Tumor Explainable AI
+🧠 Working on **Brain Tumor Explainable AI**  
 
-⚡ Passionate about real-time problem solving and innovation
+⚡ Passionate about **real-time problem solving and innovation**  
+
+💡 Interested in **Embedded Systems, Computer Vision & AI Integration**
 
 ---
 
@@ -30,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,arduino,git,linux,vscode,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=c,python,arduino,git,linux,vscode,tensorflow,opencv,html,css"/>
 
 </div>
 
@@ -40,9 +41,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahivarunchalla86&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahivarunchalla86&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahivarunchalla86&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahivarunchalla86&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -52,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahivarunchalla86&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mahivarunchalla86&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -93,6 +94,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=mahivarun-portfolio&theme=tokyonight"/>
 
 </div>
+
 ---
 
 # 🌐 Connect With Me
@@ -119,6 +121,6 @@
 
 ## 🚀 Stay Focused • Build Real Impact
 
-💻 Code • Build • Innovate • Repeat
+### 💻 Code • Build • Innovate • Repeat
 
 </div>
