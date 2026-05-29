@@ -77,6 +77,14 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Automation-using-Esp32&theme=tokyonight"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=parking-slot-tracking&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahivarunchalla86&repo=Mahivarunchalla86&theme=tokyonight"/>
+
+</div>
 ---
 
 # 🌐 Connect With Me
